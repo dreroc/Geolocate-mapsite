@@ -1,0 +1,3 @@
+# Geolocate-mapsite
+for GeoLocate Template Configuration
+This is where the actual code and script is located...
